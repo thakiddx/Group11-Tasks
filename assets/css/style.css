@@ -36,3 +36,8 @@ p{
 button{
     border: none;
 }
+
+.formField.error input{
+    border-color: red;
+
+}
